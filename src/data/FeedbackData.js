@@ -1,18 +1,18 @@
 const FeedbackData = [
   {
-    id: 1,
+    id: "ed2fdd02-db2b-42a0-91fb-960643dede60",
     rating: 10,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "Donec euismod tincidunt magna, in accumsan augue lacinia at. Etiam consequat ligula ac tortor laoreet eleifend. Nunc ut sodales dolor.",
   },
   {
-    id: 2,
+    id: "9d08eea7-cfe6-49d4-a662-26bdd2950c7a",
     rating: 9,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "Sed a velit sollicitudin, rhoncus leo ac, tincidunt lorem. Phasellus eu sodales tortor. Donec nunc ligula, tempus vitae lorem vitae.",
   },
   {
-    id: 3,
+    id: "7afa4ec0-4d4a-4554-8cd0-f172a6fb1f17",
     rating: 8,
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    text: "Nullam eu risus rutrum, tristique risus vitae, maximus est. Fusce hendrerit volutpat neque vel porttitor. Morbi scelerisque dolor tempus massa.",
   },
 ];
 
